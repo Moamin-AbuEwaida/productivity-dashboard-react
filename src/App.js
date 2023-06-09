@@ -1,10 +1,14 @@
-
+import Sidebar from './components/sidebar/Sidebar'
+import Body from './components/body/Body'
+import Account from './components/account/Account'
 import './App.css';
 
 function App() {
   return (
-    <div>
-      <h1>hello world</h1>
+    <div className='container'>
+      <Sidebar />
+      <Body />
+      <Account />
     </div>
   );
 }
