@@ -1,9 +1,13 @@
 import React from "react";
-import "./Body.css";
+import "./Body.scss";
+import Top from "./topSection/Top";
+import Bottom from "./bottomSection/Bottom";
+
 const Body = () => {
   return (
-    <div>
-      <div>Body</div>
+    <div className="body">
+      <Top />
+      <Bottom />
     </div>
   );
 };
