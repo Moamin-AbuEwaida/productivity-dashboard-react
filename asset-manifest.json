@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/productivity-dashboard-react/static/css/main.c9186689.css",
+    "main.js": "/productivity-dashboard-react/static/js/main.5558df97.js",
+    "static/media/bg.jpg": "/productivity-dashboard-react/static/media/bg.072b6b90a531fb6247c8.jpg",
+    "static/media/User.png": "/productivity-dashboard-react/static/media/User.b1a9e06d3ff90d0d0b8d.png",
+    "static/media/Penta.png": "/productivity-dashboard-react/static/media/Penta.52fb1e9fe0bbc563cb2e.png",
+    "static/media/Laptop.png": "/productivity-dashboard-react/static/media/Laptop.4b7a2ef9ad68bb316062.png",
+    "index.html": "/productivity-dashboard-react/index.html",
+    "main.c9186689.css.map": "/productivity-dashboard-react/static/css/main.c9186689.css.map",
+    "main.5558df97.js.map": "/productivity-dashboard-react/static/js/main.5558df97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9186689.css",
+    "static/js/main.5558df97.js"
+  ]
+}
